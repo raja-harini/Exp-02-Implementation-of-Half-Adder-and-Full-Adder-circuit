@@ -41,12 +41,19 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: HARINI R
 RegisterNumber:23000779  
 */
-Logic symbol & Truthtable![CODE](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/6b7532c8-642f-4202-9452-0a58109f5290)
-![WAVE FORM](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/9ca77415-91a0-4f38-8008-84a9cd91bc6e)
+Logic symbol & Truthtable
+![CODE HA](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/23ca168d-b630-422e-a392-2cb21894a35e)
+![WAVE FORM HA](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/7cac7da1-2271-4663-8ca8-1fa3bde301f7)
+![CODE FA](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/4a7754f1-faad-423f-b537-e7c1c8840fe7)
+![WAVE FORM FA](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/82f8e8b7-cd6b-490d-81c2-da63897a7855)
 
-RTL realization![LOGIC DIAGRAM](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/f4b1bf85-e96f-4827-a1c3-215ea2f25190)
+RTL realization
+![LOGIC DIAGRAM HA](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/d1c4e39d-d54a-4b58-b24a-b36bd2ab94ab)
+![LOGIC DIAGRAM FA](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/7602face-ef3e-407f-b430-e2857aaae6bc)
 
-### Output:![TIMING DIAGRAM](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/68005d23-5198-46c5-a7cf-a722eeb1a95b)
+### Output:
+![TIMING DIAGRAM  HA](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/cfe372ce-023f-454c-8c06-df6f31803873)
+![TIMING DIAGRAM FA](https://github.com/raja-harini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037372/9983a652-4afa-4451-b616-f6ed2a6c2492)
 
 ### RTL
 ### TIMING DIAGRAM
